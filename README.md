@@ -1,4 +1,4 @@
-## Hi, I'm Alan
+## Hi, I'm AlanR
 
 I build small, focused tools for macOS and Windows. Most of them started because something in my own day was slower than it should have been, and the fix turned into an app.
 
